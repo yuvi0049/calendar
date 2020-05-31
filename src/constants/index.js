@@ -1,0 +1,7 @@
+const EVENTS = {
+    LOAD: "EVENTS_LOAD",
+    LOAD_SUCCESS: "EVENTS_LOAD_SUCCESS",
+    LOAD_FAIL: "EVENTS_LOAD_FAIL"
+}
+
+export { EVENTS };

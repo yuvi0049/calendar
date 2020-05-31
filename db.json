@@ -1,0 +1,36 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "name": "event 3",
+      "description": "desc 3",
+      "date": "May 28 2020",
+      "time": "4am",
+      "remind": true
+    },
+    {
+      "id": 2,
+      "name": "event 5",
+      "description": "desc 5",
+      "date": "May 30 2020",
+      "time": "1am",
+      "remind": true
+    },
+    {
+      "id": 3,
+      "name": "event 2",
+      "description": "desc 2",
+      "date": "May 30 2020",
+      "time": "4am",
+      "remind": false
+    },
+    {
+      "id": 4,
+      "name": "event 4",
+      "description": "desc 4",
+      "date": "May 28 2020",
+      "time": "1am",
+      "remind": true
+    }
+  ]
+}
